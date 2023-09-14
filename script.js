@@ -13,6 +13,8 @@ document.querySelector('.guess').value = 23;
 console.log(document.querySelector('.guess').value);
 */
 
+//Publish to Github
+
 let theNumber = Math.trunc(Math.random() * 20) + 1;
 let score = 20;
 let highScore = 0;
